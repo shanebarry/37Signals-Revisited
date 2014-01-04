@@ -1,0 +1,150 @@
+
+/*.container {width: 820px;}*/
+
+ul { margin-top: 20px;
+		  margin-left: 50px;
+		  text-align: right;
+		  min-width: 300px;}
+
+li {  display: inline;
+	 font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	 font-size: 12px;
+	 color: #999;}
+
+li a { text-decoration: none;
+		color: #369;
+	   }
+
+li:first-child { float: left;
+			}
+
+li:nth-child(n+2) { margin-right: 2%; }
+
+.topbuttons:hover {color: #6699cc;}
+
+#signin {color:#6699cc;}
+
+#signin:hover {color: #369;} 
+
+.logo { clear: both;
+		width:1000px;
+		text-align: center;
+		padding-top: 40px;
+		margin: auto;}
+
+#headers {height:200px;
+		 width:1000px;
+		 margin: auto;}
+
+.header1 { width: 1000px;
+	text-align: center;
+	font-size: 58px;
+	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+.header5 { width: 1000px;
+	text-align: center;
+	font-size: 20px;
+	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;}
+
+.productslink {color: #336699;
+				font-size: 46px; }
+
+#basecampheader, #highriseheader, #campfireheader {height:200px;
+		 		 width:1000px;
+		 		 margin: auto;
+		 		 }
+
+.hoverheaders { color: #222;
+			   font-size: 46px; 
+				width: 900px;
+				text-align: center;
+				font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
+				margin-left:auto;
+				margin-right:auto;
+				 }
+
+.hoverparagraphs {font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+					text-align: center;
+					margin-left:auto;
+					margin-right:auto;
+					margin-top: 30px;
+					width: 900px; }
+
+.products { text-align: center;
+			width:1000px;
+			margin: auto;}
+
+#basecamp, #highrise, #campfire { display: inline-block;
+								background: linear-gradient(#fff, #efefef);
+								border: 1px solid #e8e8e8;
+								height: 240px;
+								width: 180px;
+								border-radius: 5px;
+								margin-right: 20px;
+								text-decoration: none;
+								position: relative; }
+
+.productlogo { margin: 5px 0px;}
+
+h3 { font-size: 21px;
+	color: #369;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+	display: inline;}
+
+.line2 {font-size: 14px;
+		font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+		color: #cc0000;
+		font-weight: bold;
+		margin-top: 10px;}
+
+.line3 {color: #222;
+		font-size: 14px;
+		font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+		margin-top: 15px;}
+
+.symbol {color: #369;
+		 position: relative;
+		 bottom: 7px;
+		 font-size: .7em;}
+
+.basecamparrow {z-index: 1;
+				position: absolute;
+				left: 130px;
+				bottom: 210px;
+				display: none;
+				}
+
+.highrisearrow {z-index: 1;
+				position: absolute;
+				left: 130px;
+				bottom: 210px;
+				display: none;
+				}
+
+.campfirearrow {z-index: 1;
+				position: absolute;
+				left: -20px;
+				bottom: 210px;
+				display: none;
+				}
+
+.asterick { text-align: center;
+			margin-top: 3%;
+			margin-left: auto;
+			margin-right: auto;
+			width:1000px;
+			display: none;
+			}
+
+.invisible {display: none; }
+
+
